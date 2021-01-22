@@ -4,6 +4,16 @@
 
 ---
 
+推荐一个 linux 小工具 trash-cli 用于移动文件到回收站，同时会记录文件的原地址、删除日期和权限。trash-cli 和 KDE、GNOME、XFCE 使用同一个回收站，你可以在命令行或脚本运行 trash-cli。一定程度上可以代替 rm
+- 地址:https://github.com/andreafrancia/trash-cli/blob/master/README_zh-CN.rst
+
+---
+
+一个探针工具，可用于实时监测服务器运行状况
+- 地址:https://github.com/naiba/nezha
+
+---
+
 linux使用过程中经常出现安装软件包失败的问题,很多情况是遇到了锁,可以直接删除(运维兄弟们,生产环境下不要用啊🤣🤣🤣)
 - debian系
     报错：无法获得锁 /var/lib/apt/lists/lock - open (11: 资源暂时不可用)
