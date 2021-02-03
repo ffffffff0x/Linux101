@@ -1,3 +1,5 @@
+> 项目内容合并至 https://github.com/ffffffff0x/Pentest101 ,后续更新会在 Pentest101 中
+
 # Linux101
 
 每周(也许不)分享一些 Linux 小知识点
